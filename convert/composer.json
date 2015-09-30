@@ -1,0 +1,6 @@
+{
+    "require": {
+        "data-values/time": "~0.8",
+	"addwiki/wikibase-api": "~0.5"
+    }
+}
